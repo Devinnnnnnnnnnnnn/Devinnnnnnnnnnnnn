@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Devinnnnnnnnnnnnn
+- 👀 I’m interested in Python, C#
+- 🌱 I’m currently learning JavaScript, Lua
